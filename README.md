@@ -2,4 +2,4 @@
 my second Zuri asignment
 https://github.com/MurimiCaroline/JsTask2
 I love Javascript with Zuri
-https://murimicaroline.github.io/JsTask2/
+This is the link to the published page: https://murimicaroline.github.io/JsTask2/
